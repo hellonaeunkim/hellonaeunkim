@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-        <a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/hellonaeunkim"
   width="600"
