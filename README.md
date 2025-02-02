@@ -63,9 +63,14 @@
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 Latest Blog Posts </h2>
-    <div align= "center" style="font-size: 1.2em; font-weight: 600; margin: 20px 0;">
+    <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 6px; margin: 20px 0;">
     </div>
 </div>
 
 
-<a href=https://annovation.tistory.com/100>[Spring] @Autowired</a></br><a href=https://annovation.tistory.com/98>트랜젝션 (Transaction)</a></br><a href=https://annovation.tistory.com/101>[Spring] @GetMapping</a></br><a href=https://annovation.tistory.com/99>[Spring] @Transactional</a></br><a href=https://annovation.tistory.com/93>ORM, JPA feat. Hibernate</a></br>
+<a href="https://annovation.tistory.com/100" style="text-decoration: none; color: #0366d6; font-size: 14px;">[Spring] @Autowired</a>
+<a href="https://annovation.tistory.com/98" style="text-decoration: none; color: #0366d6; font-size: 14px;">트랜젝션 (Transaction)</a>
+<a href="https://annovation.tistory.com/101" style="text-decoration: none; color: #0366d6; font-size: 14px;">[Spring] @GetMapping</a>
+<a href="https://annovation.tistory.com/99" style="text-decoration: none; color: #0366d6; font-size: 14px;">[Spring] @Transactional</a>
+<a href="https://annovation.tistory.com/93" style="text-decoration: none; color: #0366d6; font-size: 14px;">ORM, JPA feat. Hibernate</a>
+</div></div>
