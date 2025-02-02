@@ -63,13 +63,13 @@
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 Latest Blog Posts </h2>
-    <div style="text-align: center; max-width: 800px; margin: 20px auto; list-style-position: inside;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 20px auto;">
 </div>
 
 
-• <a href="https://annovation.tistory.com/100" style="text-decoration: none; color: #0366d6; display: inline-block;">[Spring] @Autowired</a>
-• <a href="https://annovation.tistory.com/98" style="text-decoration: none; color: #0366d6; display: inline-block;">트랜젝션 (Transaction)</a>
-• <a href="https://annovation.tistory.com/101" style="text-decoration: none; color: #0366d6; display: inline-block;">[Spring] @GetMapping</a>
-• <a href="https://annovation.tistory.com/99" style="text-decoration: none; color: #0366d6; display: inline-block;">[Spring] @Transactional</a>
-• <a href="https://annovation.tistory.com/93" style="text-decoration: none; color: #0366d6; display: inline-block;">ORM, JPA feat. Hibernate</a>
+• <a href="https://annovation.tistory.com/100" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @Autowired</a>
+• <a href="https://annovation.tistory.com/98" style="text-decoration: none; color: #0366d6; margin: 5px 0;">트랜젝션 (Transaction)</a>
+• <a href="https://annovation.tistory.com/101" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @GetMapping</a>
+• <a href="https://annovation.tistory.com/99" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @Transactional</a>
+• <a href="https://annovation.tistory.com/93" style="text-decoration: none; color: #0366d6; margin: 5px 0;">ORM, JPA feat. Hibernate</a>
 </div></div>
