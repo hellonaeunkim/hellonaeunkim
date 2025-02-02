@@ -69,8 +69,11 @@ let text = `
     </div>
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 Latest Blog Posts </h2> <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 Latest Blog Posts </h2>
+    <div align= "center" style="font-size: 1.2em; font-weight: 600; margin: 20px 0;">
     </div>
+</div>
+
 
 `;
 
