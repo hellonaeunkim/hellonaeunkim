@@ -70,7 +70,7 @@ let text = `
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 Latest Blog Posts </h2>
-    <div align= "center" style="font-size: 1.2em; font-weight: 600; margin: 20px 0;">
+    <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 6px; margin: 20px 0;">
     </div>
 </div>
 
@@ -94,8 +94,10 @@ const parser = new Parser({
         console.log(`${i + 1}번째 게시물`);
         console.log(`추가될 제목: ${title}`);
         console.log(`추가될 링크: ${link}`);
-        text += `<a href=${link}>${title}</a></br>`;
+        text += `<a href="${link}" style="text-decoration: none; color: #0366d6; font-size: 14px;">${title}</a>\n`;
     }
+
+    text += '</div></div>\n';
 
     // README.md 파일 작성
     writeFileSync('README.md', text, 'utf8', (e) => {
