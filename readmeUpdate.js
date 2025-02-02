@@ -70,7 +70,7 @@ let text = `
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 Latest Blog Posts </h2>
-    <div style="text-align: center; max-width: 800px; margin: 20px auto; list-style-position: inside;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 20px auto;">
 </div>
 
 
@@ -93,7 +93,7 @@ const parser = new Parser({
         console.log(`${i + 1}번째 게시물`);
         console.log(`추가될 제목: ${title}`);
         console.log(`추가될 링크: ${link}`);
-        text += `• <a href="${link}" style="text-decoration: none; color: #0366d6; display: inline-block;">${title}</a>\n`;
+        text += `• <a href="${link}" style="text-decoration: none; color: #0366d6; margin: 5px 0;">${title}</a>\n`;
     }
 
     text += '</div></div>\n';
