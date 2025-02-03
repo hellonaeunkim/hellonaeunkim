@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/109" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTML VS CSS</a>
 • <a href="https://annovation.tistory.com/100" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @Autowired</a>
 • <a href="https://annovation.tistory.com/98" style="text-decoration: none; color: #0366d6; margin: 5px 0;">트랜젝션 (Transaction)</a>
 • <a href="https://annovation.tistory.com/101" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @GetMapping</a>
 • <a href="https://annovation.tistory.com/99" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @Transactional</a>
-• <a href="https://annovation.tistory.com/93" style="text-decoration: none; color: #0366d6; margin: 5px 0;">ORM, JPA feat. Hibernate</a>
 </div></div>
