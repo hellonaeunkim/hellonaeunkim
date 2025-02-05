@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/111" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[HTML] 표준 HTML 구조</a>
 • <a href="https://annovation.tistory.com/110" style="text-decoration: none; color: #0366d6; margin: 5px 0;">부트스트랩 (Bootstrap) feat. Card 컴포넌트</a>
 • <a href="https://annovation.tistory.com/109" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTML VS CSS</a>
 • <a href="https://annovation.tistory.com/100" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @Autowired</a>
 • <a href="https://annovation.tistory.com/98" style="text-decoration: none; color: #0366d6; margin: 5px 0;">트랜젝션 (Transaction)</a>
-• <a href="https://annovation.tistory.com/101" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] @GetMapping</a>
 </div></div>
