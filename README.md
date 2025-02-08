@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/114" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] Validation Library 데이터 유효성 검사</a>
 • <a href="https://annovation.tistory.com/113" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] HTTP Method</a>
 • <a href="https://annovation.tistory.com/112" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Boot] Thymeleaf 템플릿 상속 (Template Inheritance)</a>
 • <a href="https://annovation.tistory.com/111" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[HTML] 표준 HTML 구조</a>
 • <a href="https://annovation.tistory.com/110" style="text-decoration: none; color: #0366d6; margin: 5px 0;">부트스트랩 (Bootstrap) feat. Card 컴포넌트</a>
-• <a href="https://annovation.tistory.com/109" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTML VS CSS</a>
 </div></div>
