@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/119" style="text-decoration: none; color: #0366d6; margin: 5px 0;">MPA VS SPA feat. REST API</a>
 • <a href="https://annovation.tistory.com/118" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] Bean</a>
 • <a href="https://annovation.tistory.com/117" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Security] 스프링 세큐리티 (Spring Security)</a>
 • <a href="https://annovation.tistory.com/116" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] 페이징 (Paiging) 주요 메서드</a>
 • <a href="https://annovation.tistory.com/115" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] 바인딩 (Binding)</a>
-• <a href="https://annovation.tistory.com/114" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] Validation Library 데이터 유효성 검사</a>
 </div></div>
