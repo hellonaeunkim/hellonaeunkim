@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/122" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Security] 역할 기반 접근 제어 (RBAC) feat. Role</a>
 • <a href="https://annovation.tistory.com/120" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Security] 보안</a>
 • <a href="https://annovation.tistory.com/121" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 문법] enum(enumerated type)</a>
 • <a href="https://annovation.tistory.com/119" style="text-decoration: none; color: #0366d6; margin: 5px 0;">MPA VS SPA feat. REST API</a>
 • <a href="https://annovation.tistory.com/118" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] Bean</a>
-• <a href="https://annovation.tistory.com/117" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Security] 스프링 세큐리티 (Spring Security)</a>
 </div></div>
