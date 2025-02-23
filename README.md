@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/135" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 문법] Overloading VS Overriding</a>
 • <a href="https://annovation.tistory.com/132" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JUNIT] REST API feat. Annotation</a>
 • <a href="https://annovation.tistory.com/175" style="text-decoration: none; color: #0366d6; margin: 5px 0;">Java VS Kotlin</a>
 • <a href="https://annovation.tistory.com/130" style="text-decoration: none; color: #0366d6; margin: 5px 0;">REST API 주요 어노테이션</a>
 • <a href="https://annovation.tistory.com/127" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] JPA Specification</a>
-• <a href="https://annovation.tistory.com/124" style="text-decoration: none; color: #0366d6; margin: 5px 0;">쿼리 문자열 (Query String) VS RESTful URL</a>
 </div></div>
