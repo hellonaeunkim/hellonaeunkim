@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/139" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 이론] 영속성 컨텍스트(Persistence Context)</a>
 • <a href="https://annovation.tistory.com/138" style="text-decoration: none; color: #0366d6; margin: 5px 0;">DELETE vs TRUNCATE</a>
 • <a href="https://annovation.tistory.com/137" style="text-decoration: none; color: #0366d6; margin: 5px 0;">단언 메서드 (assertion methods)</a>
 • <a href="https://annovation.tistory.com/136" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 문법] I/O Stream</a>
 • <a href="https://annovation.tistory.com/135" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 문법] Overloading VS Overriding</a>
-• <a href="https://annovation.tistory.com/132" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JUNIT] REST API feat. Annotation</a>
 </div></div>
