@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/177" style="text-decoration: none; color: #0366d6; margin: 5px 0;">운영체제 (OS, Operating System)</a>
 • <a href="https://annovation.tistory.com/147" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JPA] 기본키 생성 전략</a>
 • <a href="https://annovation.tistory.com/149" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Boot] JpaRepository Optional</a>
 • <a href="https://annovation.tistory.com/131" style="text-decoration: none; color: #0366d6; margin: 5px 0;">Gradle VS Maven</a>
 • <a href="https://annovation.tistory.com/143" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JPA] BaseEntity</a>
-• <a href="https://annovation.tistory.com/139" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 이론] 영속성 컨텍스트(Persistence Context)</a>
 </div></div>
