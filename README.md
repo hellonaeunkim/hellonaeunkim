@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/150" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Boot] @JsonIgnore와 getter Method, @JsonProperty</a>
 • <a href="https://annovation.tistory.com/161" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Functions</a>
 • <a href="https://annovation.tistory.com/160" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Variables</a>
 • <a href="https://annovation.tistory.com/177" style="text-decoration: none; color: #0366d6; margin: 5px 0;">운영체제 (OS, Operating System)</a>
 • <a href="https://annovation.tistory.com/147" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JPA] 기본키 생성 전략</a>
-• <a href="https://annovation.tistory.com/149" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Boot] JpaRepository Optional</a>
 </div></div>
