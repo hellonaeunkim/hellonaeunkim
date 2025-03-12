@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/148" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JPA] 기본키 생성 전략 (추가설명) (업데이트중...)</a>
 • <a href="https://annovation.tistory.com/152" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTTP 상태 코드</a>
 • <a href="https://annovation.tistory.com/151" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Boot] Generic</a>
 • <a href="https://annovation.tistory.com/163" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects</a>
 • <a href="https://annovation.tistory.com/162" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Control Flows</a>
-• <a href="https://annovation.tistory.com/150" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring Boot] @JsonIgnore와 getter Method, @JsonProperty</a>
 </div></div>
