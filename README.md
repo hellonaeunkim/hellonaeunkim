@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/156" style="text-decoration: none; color: #0366d6; margin: 5px 0;">PUT vs PATCH</a>
 • <a href="https://annovation.tistory.com/165" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Null Safety</a>
 • <a href="https://annovation.tistory.com/164" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Collections</a>
 • <a href="https://annovation.tistory.com/155" style="text-decoration: none; color: #0366d6; margin: 5px 0;">PATCH API</a>
 • <a href="https://annovation.tistory.com/146" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.0 최댓값 만들기(1) (업데이트 중...)</a>
-• <a href="https://annovation.tistory.com/154" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JPA] 더티 체킹 (Dirty Checking)</a>
 </div></div>
