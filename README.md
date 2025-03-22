@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/168" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects - Inheritence</a>
 • <a href="https://annovation.tistory.com/167" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Scope Functions</a>
 • <a href="https://annovation.tistory.com/166" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Productivity Booster</a>
 • <a href="https://annovation.tistory.com/157" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 문법] @Builder</a>
 • <a href="https://annovation.tistory.com/158" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 문법] 불변 객체(Immutable Object)란? ft. 가변 객체</a>
-• <a href="https://annovation.tistory.com/156" style="text-decoration: none; color: #0366d6; margin: 5px 0;">PUT vs PATCH</a>
 </div></div>
