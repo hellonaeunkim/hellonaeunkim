@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/170" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects - Constructor</a>
 • <a href="https://annovation.tistory.com/169" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Visibility Modifier</a>
 • <a href="https://annovation.tistory.com/168" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects - Inheritence</a>
 • <a href="https://annovation.tistory.com/167" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Scope Functions</a>
 • <a href="https://annovation.tistory.com/166" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Productivity Booster</a>
-• <a href="https://annovation.tistory.com/157" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java 문법] @Builder</a>
 </div></div>
