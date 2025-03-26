@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/172" style="text-decoration: none; color: #0366d6; margin: 5px 0;">컴파일 타임(Compile Time) VS 런 타임(Run Time)</a>
 • <a href="https://annovation.tistory.com/171" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] Checked, Unchecked Exception</a>
 • <a href="https://annovation.tistory.com/170" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects - Constructor</a>
 • <a href="https://annovation.tistory.com/169" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Visibility Modifier</a>
 • <a href="https://annovation.tistory.com/168" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects - Inheritence</a>
-• <a href="https://annovation.tistory.com/167" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Scope Functions</a>
 </div></div>
