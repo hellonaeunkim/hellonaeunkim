@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/153" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTTP 상태 코드 응답하는 방법 (업데이트 중...)</a>
 • <a href="https://annovation.tistory.com/174" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] 단위 테스트(Unit Test) vs 통합 테스트(Integration Test)</a>
 • <a href="https://annovation.tistory.com/173" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects - Companion Object</a>
 • <a href="https://annovation.tistory.com/172" style="text-decoration: none; color: #0366d6; margin: 5px 0;">컴파일 타임(Compile Time) VS 런 타임(Run Time)</a>
 • <a href="https://annovation.tistory.com/171" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] Checked, Unchecked Exception</a>
-• <a href="https://annovation.tistory.com/170" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Kotlin] Classes and Objects - Constructor</a>
 </div></div>
