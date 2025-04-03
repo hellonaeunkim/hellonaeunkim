@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/182" style="text-decoration: none; color: #0366d6; margin: 5px 0;">바인드 마운트(Bind Mount) vs 볼륨 마운트(Volume Mount)</a>
 • <a href="https://annovation.tistory.com/181" style="text-decoration: none; color: #0366d6; margin: 5px 0;">웹서버(Web Server)란?</a>
 • <a href="https://annovation.tistory.com/180" style="text-decoration: none; color: #0366d6; margin: 5px 0;">도커(Docker) 볼륨(Volume)</a>
 • <a href="https://annovation.tistory.com/179" style="text-decoration: none; color: #0366d6; margin: 5px 0;">도커(Docker)를 사용하는 이유</a>
 • <a href="https://annovation.tistory.com/178" style="text-decoration: none; color: #0366d6; margin: 5px 0;">도커(Docker), 컨테이너(Container), 이미지(Image)</a>
-• <a href="https://annovation.tistory.com/153" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTTP 상태 코드 응답하는 방법 (업데이트 중...)</a>
 </div></div>
