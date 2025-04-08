@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/187" style="text-decoration: none; color: #0366d6; margin: 5px 0;">권한(Permission), 정책(Policy), 역할(Role)</a>
 • <a href="https://annovation.tistory.com/186" style="text-decoration: none; color: #0366d6; margin: 5px 0;">인바운드(Inbound), 아웃바운드(Outbound)</a>
 • <a href="https://annovation.tistory.com/185" style="text-decoration: none; color: #0366d6; margin: 5px 0;">사설 IP (Private IP)</a>
 • <a href="https://annovation.tistory.com/184" style="text-decoration: none; color: #0366d6; margin: 5px 0;">서버(Server)란?</a>
 • <a href="https://annovation.tistory.com/183" style="text-decoration: none; color: #0366d6; margin: 5px 0;">기본 브릿지 네트워크(Brideg Network)가 DNS를 제공하지 않는 이유</a>
-• <a href="https://annovation.tistory.com/182" style="text-decoration: none; color: #0366d6; margin: 5px 0;">바인드 마운트(Bind Mount) vs 볼륨 마운트(Volume Mount)</a>
 </div></div>
