@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/190" style="text-decoration: none; color: #0366d6; margin: 5px 0;">@AuthenticationPrincipal</a>
 • <a href="https://annovation.tistory.com/189" style="text-decoration: none; color: #0366d6; margin: 5px 0;">AI 챗봇 핵심 기술 : 벡터, LLM, RAG</a>
 • <a href="https://annovation.tistory.com/188" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Lombok] AccessLevel</a>
 • <a href="https://annovation.tistory.com/187" style="text-decoration: none; color: #0366d6; margin: 5px 0;">권한(Permission), 정책(Policy), 역할(Role)</a>
 • <a href="https://annovation.tistory.com/186" style="text-decoration: none; color: #0366d6; margin: 5px 0;">인바운드(Inbound), 아웃바운드(Outbound)</a>
-• <a href="https://annovation.tistory.com/185" style="text-decoration: none; color: #0366d6; margin: 5px 0;">사설 IP (Private IP)</a>
 </div></div>
