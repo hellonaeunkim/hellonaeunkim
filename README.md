@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/195" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] MockMvc</a>
 • <a href="https://annovation.tistory.com/194" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTTP vs HTTPS</a>
 • <a href="https://annovation.tistory.com/193" style="text-decoration: none; color: #0366d6; margin: 5px 0;">웹(Web)이란?</a>
 • <a href="https://annovation.tistory.com/192" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Lombok] @Data</a>
 • <a href="https://annovation.tistory.com/191" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[JPA] ddl-auto를 썼는데 컬럼이 삭제되지 않는 이유</a>
-• <a href="https://annovation.tistory.com/190" style="text-decoration: none; color: #0366d6; margin: 5px 0;">@AuthenticationPrincipal</a>
 </div></div>
