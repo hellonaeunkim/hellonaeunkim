@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/197" style="text-decoration: none; color: #0366d6; margin: 5px 0;">ECR, ECS</a>
 • <a href="https://annovation.tistory.com/196" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[DB] Redis</a>
 • <a href="https://annovation.tistory.com/195" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] MockMvc</a>
 • <a href="https://annovation.tistory.com/194" style="text-decoration: none; color: #0366d6; margin: 5px 0;">HTTP vs HTTPS</a>
 • <a href="https://annovation.tistory.com/193" style="text-decoration: none; color: #0366d6; margin: 5px 0;">웹(Web)이란?</a>
-• <a href="https://annovation.tistory.com/192" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Lombok] @Data</a>
 </div></div>
