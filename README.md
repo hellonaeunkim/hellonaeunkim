@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/200" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] 변수(Variables)</a>
 • <a href="https://annovation.tistory.com/199" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.0 순서쌍의 개수</a>
 • <a href="https://annovation.tistory.com/198" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.0 제곱수 판별하기</a>
 • <a href="https://annovation.tistory.com/197" style="text-decoration: none; color: #0366d6; margin: 5px 0;">ECR, ECS</a>
 • <a href="https://annovation.tistory.com/196" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[DB] Redis</a>
-• <a href="https://annovation.tistory.com/195" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Spring] MockMvc</a>
 </div></div>
