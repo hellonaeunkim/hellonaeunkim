@@ -67,7 +67,7 @@
 </div>
 
 
-• <a href="https://annovation.tistory.com/221" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[BAEKJOON / Java] Silver 스택 2</a>
+• <a href="https://annovation.tistory.com/221" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[BAEKJOON / Java] Silver 스택 2 (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/220" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 푸드 파이트 대회</a>
 • <a href="https://annovation.tistory.com/219" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 문자열 내 p와 y의 개수</a>
 • <a href="https://annovation.tistory.com/218" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 두 정수 사이의 합</a>
