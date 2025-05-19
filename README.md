@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/242" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] static 변수</a>
 • <a href="https://annovation.tistory.com/241" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 가장 큰 수 (업데이트 중...)</a>
 • <a href="https://annovation.tistory.com/240" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 피보나치 수 (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/239" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 숫자의 표현</a>
 • <a href="https://annovation.tistory.com/238" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] 변수 생명 주기</a>
-• <a href="https://annovation.tistory.com/237" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 다음 큰 숫자</a>
 </div></div>
