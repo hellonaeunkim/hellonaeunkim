@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/253" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 더 맵게 (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/252" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 카펫 (업데이트 중..)</a>
-• <a href="https://annovation.tistory.com/251" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 귤 고르기 (업데이트 중..)</a>
+• <a href="https://annovation.tistory.com/251" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 귤 고르기</a>
 • <a href="https://annovation.tistory.com/250" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 예산</a>
 • <a href="https://annovation.tistory.com/249" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 구명보트</a>
-• <a href="https://annovation.tistory.com/248" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 폰켓몬</a>
 </div></div>
