@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/264" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] static 영역을 활용한 변수 중복 제거</a>
 • <a href="https://annovation.tistory.com/263" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] main() 메서드 (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/262" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 괄호 회전하기</a>
 • <a href="https://annovation.tistory.com/261" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 삼총사</a>
 • <a href="https://annovation.tistory.com/260" style="text-decoration: none; color: #0366d6; margin: 5px 0;">시간 복잡도 feat. 자료구조, 알고리즘 (업데이트 중...)</a>
-• <a href="https://annovation.tistory.com/259" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] static 변수와 메서드 VS 인스턴스 변수와 메서드</a>
 </div></div>
