@@ -67,7 +67,7 @@
 </div>
 
 
-• <a href="https://annovation.tistory.com/267" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 점프와 순간 이동 (업데이트 중...)</a>
+• <a href="https://annovation.tistory.com/267" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 점프와 순간 이동</a>
 • <a href="https://annovation.tistory.com/266" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 음양 더하기</a>
 • <a href="https://annovation.tistory.com/265" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 정수 내림차순으로 배치하기</a>
 • <a href="https://annovation.tistory.com/264" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[Java] static 영역을 활용한 변수 중복 제거</a>
