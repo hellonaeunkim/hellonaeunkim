@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/272" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 가장 가까운 같은 글자</a>
 • <a href="https://annovation.tistory.com/271" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 이상한 문자 만들기 (업데이트 중...)</a>
-• <a href="https://annovation.tistory.com/270" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 뒤에 있는 큰 수 찾기 (업데이트 중...)</a>
+• <a href="https://annovation.tistory.com/270" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 뒤에 있는 큰 수 찾기</a>
 • <a href="https://annovation.tistory.com/269" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 할인 행사</a>
 • <a href="https://annovation.tistory.com/268" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 예상 대진표</a>
-• <a href="https://annovation.tistory.com/267" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 점프와 순간 이동</a>
 </div></div>
