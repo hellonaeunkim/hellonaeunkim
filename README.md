@@ -68,7 +68,7 @@
 
 
 • <a href="https://annovation.tistory.com/290" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[자료구조] 4-5. (1) 트리의 종류 (업데이트 중..)</a>
-• <a href="https://annovation.tistory.com/287" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[자료구조] 4-5. (1) 트리 (업데이트 중..)</a>
+• <a href="https://annovation.tistory.com/287" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[자료구조] 4-5. (1) 트리</a>
 • <a href="https://annovation.tistory.com/286" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 제일 작은 수 제거하기</a>
 • <a href="https://annovation.tistory.com/285" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[네트워크] 5-1. 네트워크의 큰 그림 (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/284" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 핸드폰 번호 가리기</a>
