@@ -67,9 +67,9 @@
 </div>
 
 
-• <a href="https://annovation.tistory.com/303" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] 실기 이론 예상문제 1일 10문 with chatGPT</a>
+• <a href="https://annovation.tistory.com/305" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 2. 실기 이론 예상문제 1일 10문 with chatGPT</a>
+• <a href="https://annovation.tistory.com/303" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 1. 실기 이론 예상문제 1일 10문 with chatGPT</a>
 • <a href="https://annovation.tistory.com/302" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 문자열 내림차순으로 배치하기</a>
 • <a href="https://annovation.tistory.com/301" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 약수의 개수와 덧셈</a>
 • <a href="https://annovation.tistory.com/300" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 수박수박수박수박수박수?</a>
-• <a href="https://annovation.tistory.com/299" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[운영체제] 3-3. 동기화와 교착 상태 (업데이트 중..)</a>
 </div></div>
