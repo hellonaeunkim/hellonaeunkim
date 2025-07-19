@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/309" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 문자열 다루기 기본 (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/308" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 5. 실기 이론 예상문제 1일 10문 with chatGPT</a>
 • <a href="https://annovation.tistory.com/307" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 4. 실기 이론 예상문제 1일 10문 with chatGPT</a>
 • <a href="https://annovation.tistory.com/306" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 3. 실기 이론 예상문제 1일 10문 with chatGPT</a>
 • <a href="https://annovation.tistory.com/305" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 2. 실기 이론 예상문제 1일 10문 with chatGPT</a>
-• <a href="https://annovation.tistory.com/303" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 1. 실기 이론 예상문제 1일 10문 with chatGPT</a>
 </div></div>
