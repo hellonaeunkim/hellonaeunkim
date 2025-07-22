@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/312" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[운영체제] 3-3. (2) 동기화와 교착 상태</a>
 • <a href="https://annovation.tistory.com/311" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 행렬의 덧셈</a>
 • <a href="https://annovation.tistory.com/310" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 숫자 문자열과 영단어</a>
 • <a href="https://annovation.tistory.com/309" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 문자열 다루기 기본 (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/308" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 5. 실기 이론 예상문제 1일 10문 with chatGPT</a>
-• <a href="https://annovation.tistory.com/307" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[정보처리기사] Day 4. 실기 이론 예상문제 1일 10문 with chatGPT</a>
 </div></div>
