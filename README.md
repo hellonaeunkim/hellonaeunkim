@@ -67,9 +67,9 @@
 </div>
 
 
+• <a href="https://annovation.tistory.com/315" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[OS] Lecture 1. 컴퓨터 시스템 개요 (Computer System Overview)</a>
 • <a href="https://annovation.tistory.com/314" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 추억 점수</a>
 • <a href="https://annovation.tistory.com/312" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[운영체제] 3-3. (2) 동기화와 교착 상태</a>
 • <a href="https://annovation.tistory.com/311" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 행렬의 덧셈</a>
 • <a href="https://annovation.tistory.com/310" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 숫자 문자열과 영단어</a>
-• <a href="https://annovation.tistory.com/309" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 문자열 다루기 기본 (업데이트 중..)</a>
 </div></div>
