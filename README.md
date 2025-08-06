@@ -67,8 +67,8 @@
 </div>
 
 
-• <a href="https://annovation.tistory.com/328" style="text-decoration: none; color: #0366d6; margin: 5px 0;">3-6. (2) 파일 시스템 (File System) (업데이트 중..)</a>
-• <a href="https://annovation.tistory.com/327" style="text-decoration: none; color: #0366d6; margin: 5px 0;">3-6. (1) 파일 시스템 (File System)</a>
+• <a href="https://annovation.tistory.com/328" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[운영체제] 3-6. (2) 파일 시스템 (File System) (업데이트 중..)</a>
+• <a href="https://annovation.tistory.com/327" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[운영체제] 3-6. (1) 파일 시스템 (File System)</a>
 • <a href="https://annovation.tistory.com/326" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 이진 변환 반복하기</a>
 • <a href="https://annovation.tistory.com/325" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 3진법 뒤집기</a>
 • <a href="https://annovation.tistory.com/324" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.1 최대공약수와 최소공배수</a>
