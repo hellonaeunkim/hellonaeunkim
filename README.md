@@ -67,7 +67,7 @@
 </div>
 
 
-• <a href="https://annovation.tistory.com/330" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 n^2 배열 자르기 (업데이트 중..)</a>
+• <a href="https://annovation.tistory.com/330" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 n^2 배열 자르기</a>
 • <a href="https://annovation.tistory.com/328" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[운영체제] 3-6. (2) 파일 시스템 (File System) (업데이트 중..)</a>
 • <a href="https://annovation.tistory.com/327" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[운영체제] 3-6. (1) 파일 시스템 (File System)</a>
 • <a href="https://annovation.tistory.com/326" style="text-decoration: none; color: #0366d6; margin: 5px 0;">[프로그래머스 / Java] Lv.2 이진 변환 반복하기</a>
