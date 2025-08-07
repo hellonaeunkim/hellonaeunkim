@@ -90,13 +90,10 @@ const parser = new Parser({
     // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
     for (let i = 0; i < 5; i++) {
         const {title, link} = feed.items[i];
-        console.log(`${i + 1}번째 게시물`);
-        console.log(`추가될 제목: ${title}`);
-        console.log(`추가될 링크: ${link}`);
-        text += `• <a href="${link}" style="text-decoration: none; color: #0366d6; margin: 5px 0;">${title}</a>\n`;
+        text += `- [${title}](${link})\n`;
     }
 
-    text += '</div></div>\n';
+    text += '\n</div>\n';
 
     // README.md 파일 작성
     writeFileSync('README.md', text, 'utf8', (e) => {
