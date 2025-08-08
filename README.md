@@ -67,7 +67,7 @@
 </div>
 
 
-- [[네트워크] 5-3. (1) 네트워크 계층 - IP](https://annovation.tistory.com/329)
+- [[네트워크] 5-3. (1) 네트워크 계층 - IP (업데이트 중..)](https://annovation.tistory.com/329)
 - [[프로그래머스 / Java] Lv.2 n^2 배열 자르기](https://annovation.tistory.com/330)
 - [[운영체제] 3-6. (2) 파일 시스템 (File System) (업데이트 중..)](https://annovation.tistory.com/328)
 - [[운영체제] 3-6. (1) 파일 시스템 (File System)](https://annovation.tistory.com/327)
