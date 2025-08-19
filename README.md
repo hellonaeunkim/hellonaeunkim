@@ -67,7 +67,7 @@
 </div>
 
 
-- [[프로그래머스 / Java] Lv.2 영어 끝말잇기 (업데이트 중..)](https://annovation.tistory.com/342)
+- [[프로그래머스 / Java] Lv.2 영어 끝말잇기](https://annovation.tistory.com/342)
 - [[네트워크] 5-5. (2) HTTP 메서드와 상태 코드 (업데이트 중..)](https://annovation.tistory.com/340)
 - [[프로그래머스 / Java] Lv.2 영어 끝말잇기 (업데이트 중..)](https://annovation.tistory.com/339)
 - [[BAEKJOON / Java] 17219. 비밀번호 찾기](https://annovation.tistory.com/338)
