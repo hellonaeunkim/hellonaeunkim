@@ -67,7 +67,7 @@
 </div>
 
 
-- [[프로그래머스 / Java] Lv.2 행렬의 곱셈 (업데이트 중..)](https://annovation.tistory.com/343)
+- [[프로그래머스 / Java] Lv.2 행렬의 곱셈](https://annovation.tistory.com/343)
 - [[프로그래머스 / Java] Lv.2 영어 끝말잇기](https://annovation.tistory.com/342)
 - [[네트워크] 5-5. (2) HTTP 메서드와 상태 코드 (업데이트 중..)](https://annovation.tistory.com/340)
 - [[프로그래머스 / MySQL] Lv.1 여러 기준으로 정렬하기](https://annovation.tistory.com/339)
