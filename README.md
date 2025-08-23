@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.1 K번째수 (업데이트 중..)](https://annovation.tistory.com/345)
 - [[BAEKJOON / Java] 1244. 스위치 켜고 끄기 (업데이트 중..)](https://annovation.tistory.com/344)
 - [[네트워크] 5-6. (1) 응용 계층 - HTTP의 응용 (업데이트 중..)](https://annovation.tistory.com/341)
 - [[프로그래머스 / Java] Lv.2 행렬의 곱셈](https://annovation.tistory.com/343)
 - [[프로그래머스 / Java] Lv.2 영어 끝말잇기](https://annovation.tistory.com/342)
-- [[네트워크] 5-5. (2) HTTP 메서드와 상태 코드 (업데이트 중..)](https://annovation.tistory.com/340)
 
 </div>
