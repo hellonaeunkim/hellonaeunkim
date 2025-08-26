@@ -67,7 +67,7 @@
 </div>
 
 
-- [[네트워크] 5-7. 프록시와 안정적인 트래픽 (업데이트 중..)](https://annovation.tistory.com/348)
+- [[네트워크] 5-7. 프록시와 안정적인 트래픽](https://annovation.tistory.com/348)
 - [[프로그래머스 / Java] Lv.1 문자열 내 마음대로 정렬하기](https://annovation.tistory.com/347)
 - [[프로그래머스 / Java] Lv.1 콜라 문제 (업데이트 중..)](https://annovation.tistory.com/346)
 - [[프로그래머스 / Java] Lv.1 K번째수 (업데이트 중..)](https://annovation.tistory.com/345)
