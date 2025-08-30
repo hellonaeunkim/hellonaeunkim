@@ -67,7 +67,7 @@
 </div>
 
 
-- [[BAEKJOON / Java] 10809. 알파벳 찾기 (업데이트 중..)](https://annovation.tistory.com/351)
+- [[BAEKJOON / Java] 10809. 알파벳 찾기](https://annovation.tistory.com/351)
 - [[프로그래머스 / Java] Lv.1 카드 뭉치](https://annovation.tistory.com/350)
 - [[프로그래머스 / Java] Lv.1 명예의 전당(1)](https://annovation.tistory.com/349)
 - [[네트워크] 5-7. 프록시와 안정적인 트래픽](https://annovation.tistory.com/348)
