@@ -67,10 +67,10 @@
 </div>
 
 
+- [[자료구조] (1) 자료구조와 알고리즘](https://annovation.tistory.com/359)
 - [[자료구조] 시간 복잡도와 공간 복잡도에 대해 설명해주세요.](https://annovation.tistory.com/358)
 - [[BAEKJOON / Java] 2798. 블랙잭](https://annovation.tistory.com/356)
 - [[BAEKJOON / Java] 1546. 평균](https://annovation.tistory.com/355)
 - [[프로그래머스 / Java] Lv.1 N개의 최소공배수](https://annovation.tistory.com/354)
-- [[BAEKJOON / Java] 8958. OX퀴즈](https://annovation.tistory.com/353)
 
 </div>
