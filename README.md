@@ -67,7 +67,7 @@
 </div>
 
 
-- [[CLRS] 1. Algorithms](https://annovation.tistory.com/364)
+- [[개인 프로젝트] Day 1. 프로젝트 목표](https://annovation.tistory.com/364)
 - [[프로그래머스 / Java] Lv.1 [1차] 비밀지도](https://annovation.tistory.com/361)
 - [[프로그래머스 / Java] Lv.1 소수 만들기](https://annovation.tistory.com/360)
 - [[OS] Lecture 1. 컴퓨터 시스템 개요 (Computer System Overview) - 시스템 버스 (System Bus)와 주변 장치](https://annovation.tistory.com/362)
