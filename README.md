@@ -67,10 +67,10 @@
 </div>
 
 
+- [[Spring] RESTful API란?](https://annovation.tistory.com/375)
 - [[Spring] 서버란 무엇인가?](https://annovation.tistory.com/374)
 - [[Java] (1) Hash Algorithm](https://annovation.tistory.com/372)
 - [[BAEKJOON / Java] 2884. 알람 시계](https://annovation.tistory.com/368)
 - [[Java] Collection Framework](https://annovation.tistory.com/363)
-- [[프로그래머스 / Java] Lv.2 튜플](https://annovation.tistory.com/371)
 
 </div>
