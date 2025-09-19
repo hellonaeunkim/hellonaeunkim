@@ -67,10 +67,10 @@
 </div>
 
 
+- [[개발 상식] Git에 대해 설명해주세요.](https://annovation.tistory.com/378)
 - [[Spring] Apache Tomacat이란 무엇일까?](https://annovation.tistory.com/377)
 - [[Spring] RESTful API란?](https://annovation.tistory.com/375)
 - [[Spring] 서버란 무엇인가?](https://annovation.tistory.com/374)
 - [[Java] (1) Hash Algorithm](https://annovation.tistory.com/372)
-- [[BAEKJOON / Java] 2884. 알람 시계](https://annovation.tistory.com/368)
 
 </div>
