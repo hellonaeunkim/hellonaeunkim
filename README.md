@@ -67,10 +67,10 @@
 </div>
 
 
+- [[Spring] PathVariable과 RequestParam](https://annovation.tistory.com/382)
 - [[Spring] Spring MVC란?](https://annovation.tistory.com/381)
 - [[Spring] HTTP란 무엇일까?](https://annovation.tistory.com/380)
 - [[Java] (2) Hash Algorithm : 해시 충돌과 해결](https://annovation.tistory.com/373)
 - [[DB] SQL 제약조건](https://annovation.tistory.com/389)
-- [[개발 상식] Git에 대해 설명해주세요.](https://annovation.tistory.com/378)
 
 </div>
