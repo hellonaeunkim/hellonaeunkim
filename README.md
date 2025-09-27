@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.1 로또의 최고 순위와 최저 순위](https://annovation.tistory.com/376)
 - [[Spring] DTO란?](https://annovation.tistory.com/386)
 - [[Spring] HTTP 데이터를 객체로 처리하는 방법](https://annovation.tistory.com/385)
 - [[Spring] PathVariable과 RequestParam](https://annovation.tistory.com/382)
 - [[Spring] Spring MVC란?](https://annovation.tistory.com/381)
-- [[Spring] HTTP란 무엇일까?](https://annovation.tistory.com/380)
 
 </div>
