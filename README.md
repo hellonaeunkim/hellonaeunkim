@@ -67,10 +67,10 @@
 </div>
 
 
+- [[Spring] IoC(제어의 역전), DI(의존성 주입)](https://annovation.tistory.com/390)
 - [[Spring] JDBC란 무엇일까?](https://annovation.tistory.com/388)
 - [[Spring] MySQL과 IntelliJ 연동하기 (Mac)](https://annovation.tistory.com/387)
 - [[프로그래머스 / Java] Lv.1 숫자 짝꿍](https://annovation.tistory.com/379)
 - [[프로그래머스 / Java] Lv.1 로또의 최고 순위와 최저 순위](https://annovation.tistory.com/376)
-- [[Spring] DTO란?](https://annovation.tistory.com/386)
 
 </div>
