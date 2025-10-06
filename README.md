@@ -67,10 +67,10 @@
 </div>
 
 
+- [[Spring] JPA와 영속성 컨텍스트](https://annovation.tistory.com/394)
 - [[CLRS] Chapter 1. The Role of Algorithms in Computing](https://annovation.tistory.com/369)
 - [정적 페이지와 동적 페이지](https://annovation.tistory.com/383)
 - [[Spring] JPA란 무엇일까?](https://annovation.tistory.com/395)
 - [[Spring] IoC Container와 Bean](https://annovation.tistory.com/391)
-- [[Spring] IoC(제어의 역전), DI(의존성 주입)](https://annovation.tistory.com/390)
 
 </div>
