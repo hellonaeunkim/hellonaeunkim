@@ -67,10 +67,10 @@
 </div>
 
 
+- [[BAEKJOON / Java] 11650. 좌표 정렬하기](https://annovation.tistory.com/400)
 - [[Lombok] @AllArgsConstructor 사용을 지양하는 이유](https://annovation.tistory.com/398)
 - [[Spring] JPA와 영속성 컨텍스트](https://annovation.tistory.com/394)
 - [[CLRS] Chapter 1. The Role of Algorithms in Computing](https://annovation.tistory.com/369)
 - [정적 페이지와 동적 페이지](https://annovation.tistory.com/383)
-- [[Spring] JPA란 무엇일까?](https://annovation.tistory.com/395)
 
 </div>
