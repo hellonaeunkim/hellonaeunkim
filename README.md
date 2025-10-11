@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.2 숫자 변환하기](https://annovation.tistory.com/396)
 - [[QueryDSL] QueryDSL을 사용하는 이유](https://annovation.tistory.com/401)
 - [[BAEKJOON / Java] 2292. 벌집](https://annovation.tistory.com/399)
 - [[BAEKJOON / Java] 11650. 좌표 정렬하기](https://annovation.tistory.com/400)
 - [[Lombok] @AllArgsConstructor 사용을 지양하는 이유](https://annovation.tistory.com/398)
-- [[Spring] JPA와 영속성 컨텍스트](https://annovation.tistory.com/394)
 
 </div>
