@@ -67,10 +67,10 @@
 </div>
 
 
+- [[Spring] Service-ServiceImpl 구조를 사용하는 이유](https://annovation.tistory.com/403)
 - [[Spring] 영속성 컨텍스트의 기능](https://annovation.tistory.com/402)
 - [[프로그래머스 / Java] Lv.2 [3차] 압축](https://annovation.tistory.com/397)
 - [[프로그래머스 / Java] Lv.2 숫자 변환하기](https://annovation.tistory.com/396)
 - [[QueryDSL] QueryDSL을 사용하는 이유](https://annovation.tistory.com/401)
-- [[BAEKJOON / Java] 2292. 벌집](https://annovation.tistory.com/399)
 
 </div>
