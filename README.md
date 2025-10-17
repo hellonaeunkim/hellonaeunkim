@@ -68,7 +68,7 @@
 
 
 - [[BAEKJOON / Java] 10828. 스택](https://annovation.tistory.com/406)
-- [[DB] Soft Delete (논리 삭제) vs Hard Delete (물리 삭제)](https://annovation.tistory.com/405)
+- [[DB] Soft Delete (논리 삭제) vs Hard Delete (물리 삭제) (업데이트 중..)](https://annovation.tistory.com/405)
 - [[프로그래머스 / Java, Python] Lv.0 캐릭터의 좌표](https://annovation.tistory.com/404)
 - [[Gemini AI] Spring Boot와 Gemini API 활용한 AI 상품 설명 기능 구현](https://annovation.tistory.com/403)
 - [[Spring] 영속성 컨텍스트의 기능 (업데이트 중..)](https://annovation.tistory.com/402)
