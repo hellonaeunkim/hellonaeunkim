@@ -67,7 +67,7 @@
 </div>
 
 
-- [[DB] Spring Boot 초기 데이터 세팅](https://annovation.tistory.com/408)
+- [[DB] Spring Boot 초기 데이터 세팅 (업데이트 중..)](https://annovation.tistory.com/408)
 - [[Git Actions] Git Actions를 활용한 CI 구축 (업데이트 중..)](https://annovation.tistory.com/410)
 - [[프로그래머스 / Java] Lv.0 제목 (업데이트 중..)](https://annovation.tistory.com/409)
 - [[BAEKJOON / Java] 10828. 스택](https://annovation.tistory.com/406)
