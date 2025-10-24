@@ -67,7 +67,7 @@
 </div>
 
 
-- [[MSA] MSA 란?](https://annovation.tistory.com/414)
+- [[MSA] MSA 란? (업데이트 중..)](https://annovation.tistory.com/414)
 - [[Docker] Docker Compose 란? (업데이트 중..)](https://annovation.tistory.com/413)
 - [[DB] Spring Boot 초기 데이터 세팅 (업데이트 중..)](https://annovation.tistory.com/408)
 - [[Git Actions] Git Actions를 활용한 CI 구축 (업데이트 중..)](https://annovation.tistory.com/410)
