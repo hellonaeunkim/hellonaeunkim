@@ -67,10 +67,10 @@
 </div>
 
 
+- [[그래프 알고리즘] 그래프(Graph) 개념과 표현 (1)](https://annovation.tistory.com/418)
 - [[DB] NoSQL 특징과 장/단점](https://annovation.tistory.com/417)
 - [[그래프 알고리즘] 그래프(Graph) 개념과 표현 (2) (업데이트 중..)](https://annovation.tistory.com/416)
 - [[그래프 알고리즘] 그래프(Graph) 개념과 표현 (1)](https://annovation.tistory.com/415)
 - [[Spring Cloud] Spring Cloud 란?](https://annovation.tistory.com/412)
-- [[MSA] MSA 란? (업데이트 중..)](https://annovation.tistory.com/414)
 
 </div>
