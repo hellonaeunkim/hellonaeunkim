@@ -67,7 +67,7 @@
 </div>
 
 
-- [[그래프 알고리즘] 그래프에서의 BFS](https://annovation.tistory.com/420)
+- [[그래프 알고리즘] 그래프에서의 BFS (1)](https://annovation.tistory.com/420)
 - [[그래프 알고리즘] 그래프(Graph) 개념과 표현 (3)](https://annovation.tistory.com/419)
 - [[DB] NoSQL 장/단점](https://annovation.tistory.com/418)
 - [[DB] NoSQL 특징](https://annovation.tistory.com/417)
