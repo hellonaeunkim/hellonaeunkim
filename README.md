@@ -67,10 +67,10 @@
 </div>
 
 
+- [[IntelliJ] DSM(Dependency Structure Matrix)](https://annovation.tistory.com/426)
 - [[MSA] Spring Boot 개별 인스턴스 yml 설정](https://annovation.tistory.com/425)
 - [[MSA] Spring Cloud Config](https://annovation.tistory.com/424)
 - [[MSA] 멀티 모듈 환경에서 Github Actions를 활용한 CI 구축](https://annovation.tistory.com/423)
 - [[DDD] 도메인 주도 설계의 필요성 (업데이트 중..)](https://annovation.tistory.com/422)
-- [[그래프 알고리즘] 그래프에서의 BFS (2)](https://annovation.tistory.com/421)
 
 </div>
