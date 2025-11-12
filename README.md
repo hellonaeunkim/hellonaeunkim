@@ -67,8 +67,8 @@
 </div>
 
 
-- [[MSA] gate way 권한 설정](https://annovation.tistory.com/429)
-- [[DB] existById, findById](https://annovation.tistory.com/428)
+- [[MSA] gate way 권한 설정 (업데이트 중..)](https://annovation.tistory.com/429)
+- [[DB] existById, findById (업데이트 중..)](https://annovation.tistory.com/428)
 - [[DDD] DDD 프로젝트 구조](https://annovation.tistory.com/427)
 - [[IntelliJ] DSM(Dependency Structure Matrix)](https://annovation.tistory.com/426)
 - [[MSA] Spring Boot 개별 인스턴스 yml 설정](https://annovation.tistory.com/425)
