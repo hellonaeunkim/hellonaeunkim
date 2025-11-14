@@ -67,7 +67,7 @@
 </div>
 
 
-- [[MSA] FeignClient vs WebClient](https://annovation.tistory.com/431)
+- [[MSA] FeignClient vs WebClient (업데이트 중..)](https://annovation.tistory.com/431)
 - [[Zipkin] 분산 추적 시스템 (업데이트 중..)](https://annovation.tistory.com/430)
 - [[MSA] gate way 권한 설정 (업데이트 중..)](https://annovation.tistory.com/429)
 - [[DB] existById, findById (업데이트 중..)](https://annovation.tistory.com/428)
