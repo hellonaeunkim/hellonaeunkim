@@ -69,7 +69,7 @@
 
 - [[프로그래머스 / Java] Lv.1 콜라 문제](https://annovation.tistory.com/434)
 - [[프로그래머스 / Java] Lv.2 기능개발](https://annovation.tistory.com/433)
-- [[프로그래머스 / Java] Lv.2 멀리 뛰기](https://annovation.tistory.com/432)
+- [[프로그래머스 / Java] Lv.2 멀리 뛰기 (업데이트 중..)](https://annovation.tistory.com/432)
 - [[MSA] FeignClient vs WebClient (업데이트 중..)](https://annovation.tistory.com/431)
 - [[Zipkin] 분산 추적 시스템 (업데이트 중..)](https://annovation.tistory.com/430)
 
