@@ -67,10 +67,10 @@
 </div>
 
 
+- [[대규모 스트림 처리] 수백만 명의 사용자가 동시에 접속하는 시스템을 어떻게 만들지?](https://annovation.tistory.com/436)
 - [[프로그래머스 / Java] Lv.2 JadenCase 문자열 만들기](https://annovation.tistory.com/435)
 - [[프로그래머스 / Java] Lv.1 콜라 문제](https://annovation.tistory.com/434)
 - [[프로그래머스 / Java] Lv.2 기능개발](https://annovation.tistory.com/433)
 - [[프로그래머스 / Java] Lv.2 멀리 뛰기 (업데이트 중..)](https://annovation.tistory.com/432)
-- [[MSA] FeignClient vs WebClient (업데이트 중..)](https://annovation.tistory.com/431)
 
 </div>
