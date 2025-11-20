@@ -68,9 +68,9 @@
 
 
 - [[대규모 스트림 처리] 수백만 명의 사용자가 동시에 접속하는 시스템을 어떻게 만들지?](https://annovation.tistory.com/436)
-- [[프로그래머스 / Java] Lv.2 JadenCase 문자열 만들기](https://annovation.tistory.com/435)
-- [[프로그래머스 / Java] Lv.1 콜라 문제](https://annovation.tistory.com/434)
-- [[프로그래머스 / Java] Lv.2 기능개발](https://annovation.tistory.com/433)
-- [[프로그래머스 / Java] Lv.2 멀리 뛰기 (업데이트 중..)](https://annovation.tistory.com/432)
+- [[Zipkin] 분산 추적 시스템 (업데이트 중..)](https://annovation.tistory.com/430)
+- [[DDD] DDD 프로젝트 구조](https://annovation.tistory.com/427)
+- [[IntelliJ] DSM(Dependency Structure Matrix)](https://annovation.tistory.com/426)
+- [[MSA] Spring Boot 개별 인스턴스 yml 설정](https://annovation.tistory.com/425)
 
 </div>
