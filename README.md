@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv. 1 직사각형 별찍기](https://annovation.tistory.com/440)
 - [[MSA] FeignClient vs WebClient](https://annovation.tistory.com/438)
 - [[대규모 스트림 처리] 수백만 명의 사용자가 동시에 접속하는 시스템을 어떻게 만들지?](https://annovation.tistory.com/436)
 - [[Zipkin] 분산 추적 시스템 (업데이트 중..)](https://annovation.tistory.com/430)
 - [[DB] existById, findById (업데이트 중..)](https://annovation.tistory.com/428)
-- [[DDD] DDD 프로젝트 구조](https://annovation.tistory.com/427)
 
 </div>
