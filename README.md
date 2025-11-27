@@ -67,10 +67,10 @@
 </div>
 
 
+- [[DDD] 유비쿼터스 언어 (Ubiquitous Language)](https://annovation.tistory.com/443)
 - [[프로그래머스 / Java] Lv.2 멀리 뛰기](https://annovation.tistory.com/442)
 - [[MSA] RabbitMQ](https://annovation.tistory.com/441)
 - [[프로그래머스 / Java] Lv. 1 직사각형 별찍기](https://annovation.tistory.com/440)
 - [[MSA] FeignClient vs WebClient](https://annovation.tistory.com/438)
-- [[대규모 스트림 처리] 수백만 명의 사용자가 동시에 접속하는 시스템을 어떻게 만들지?](https://annovation.tistory.com/436)
 
 </div>
