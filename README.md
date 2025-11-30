@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.0 약수 구하기](https://annovation.tistory.com/446)
 - [[프로그래머스 / Java] Lv.1 기사단원의 무기](https://annovation.tistory.com/445)
 - [[BAEKJOON / Java] 1152. 단어의 개수](https://annovation.tistory.com/444)
 - [[DDD] 유비쿼터스 언어 (Ubiquitous Language)](https://annovation.tistory.com/443)
 - [[프로그래머스 / Java] Lv.2 멀리 뛰기](https://annovation.tistory.com/442)
-- [[MSA] RabbitMQ](https://annovation.tistory.com/441)
 
 </div>
