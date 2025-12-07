@@ -67,7 +67,7 @@
 </div>
 
 
-- [[TDD] 통합 테스트](https://annovation.tistory.com/451)
+- [[TDD] 통합 테스트 (Java, SpringBoot)](https://annovation.tistory.com/451)
 - [[TDD] 좋은 테스트 코드의 조건](https://annovation.tistory.com/450)
 - [[Git] 협업 프로젝트 개인 레포 fork 해서 리팩토링하기!](https://annovation.tistory.com/449)
 - [[부하 테스트] 현업에서 부하 테스트를 왜 할까?](https://annovation.tistory.com/448)
