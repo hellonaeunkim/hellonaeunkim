@@ -68,7 +68,7 @@
 
 
 - [[동시성 처리] 실제 DB와 동일한 환경에서 테스트하기](https://annovation.tistory.com/455)
-- [[동시성 처리] 재고 감소 통합 테스트 코드](https://annovation.tistory.com/454)
+- [[동시성 처리] 재고 감소 통합 테스트 코드 1 (초안)](https://annovation.tistory.com/454)
 - [[BAEKJOON / Java] 10807. 개수 세기](https://annovation.tistory.com/453)
 - [[TDD] 통합 테스트 (Java, SpringBoot)](https://annovation.tistory.com/451)
 - [[TDD] 좋은 테스트 코드의 조건](https://annovation.tistory.com/450)
