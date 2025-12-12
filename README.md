@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.1 추억 점수](https://annovation.tistory.com/458)
 - [[동시성 처리] 재고 감소 통합 테스트 코드 2 (MSA 환경에서 코드 공유하기)](https://annovation.tistory.com/457)
 - [[프로그래머스 / MySQL] Lv.1 아픈 동물 찾기](https://annovation.tistory.com/456)
 - [[동시성 처리] 실제 DB와 동일한 환경에서 테스트하기](https://annovation.tistory.com/455)
 - [[동시성 처리] 재고 감소 통합 테스트 코드 1 (초안)](https://annovation.tistory.com/454)
-- [[BAEKJOON / Java] 10807. 개수 세기](https://annovation.tistory.com/453)
 
 </div>
