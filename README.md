@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.1 최소직사각형 - 연습 문제 (2) with ChatGPT](https://annovation.tistory.com/466)
 - [[프로그래머스 / Java] Lv.1 최소직사각형 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/465)
 - [[리팩토링] Stock 도메인 리팩토링](https://annovation.tistory.com/464)
 - [[리팩토링] 서비스 코드 주석 제거, 메서드명 변경](https://annovation.tistory.com/463)
 - [[프로그래머스 / Java] Lv.1 모의고사 - 연습 문제 (2) with ChatGPT](https://annovation.tistory.com/462)
-- [[프로그래머스 / Java] Lv.1 모의고사 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/461)
 
 </div>
