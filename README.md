@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.2 카펫 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/473)
 - [[프로그래머스 / Java] Lv.2 소수찾기 - 연습 문제 (2) with ChatGPT](https://annovation.tistory.com/469)
 - [[프로그래머스 / Java] Lv.2 소수찾기 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/468)
 - [[Data Structure] DFS](https://annovation.tistory.com/467)
 - [[프로그래머스 / Java] Lv.1 최소직사각형 - 연습 문제 (2) with ChatGPT](https://annovation.tistory.com/466)
-- [[프로그래머스 / Java] Lv.1 최소직사각형 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/465)
 
 </div>
