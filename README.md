@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.2 피로도 (업데이트 중..)](https://annovation.tistory.com/476)
 - [[프로그래머스 / Java] Lv.2 카펫 - 연습 문제 (2) with ChatGPT](https://annovation.tistory.com/475)
 - [[리팩토링] Stock 도메인 리팩토링 (2)](https://annovation.tistory.com/474)
 - [[프로그래머스 / Java] Lv.2 카펫 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/473)
 - [[프로그래머스 / Java] Lv.2 소수찾기 - 연습 문제 (2) with ChatGPT](https://annovation.tistory.com/469)
-- [[프로그래머스 / Java] Lv.2 소수찾기 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/468)
 
 </div>
