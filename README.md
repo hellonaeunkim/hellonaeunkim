@@ -67,10 +67,10 @@
 </div>
 
 
+- [[TDD] 일관된 테스트 결과를 위한 Test Fixture 사용하기](https://annovation.tistory.com/478)
 - [[프로그래머스 / Java] Lv.2 피로도 - 연습 문제 (1) with ChatGPT (업데이트 중..)](https://annovation.tistory.com/477)
 - [[프로그래머스 / Java] Lv.2 피로도 (업데이트 중..)](https://annovation.tistory.com/476)
 - [[프로그래머스 / Java] Lv.2 카펫 - 연습 문제 (2) with ChatGPT](https://annovation.tistory.com/475)
 - [[리팩토링] Stock 도메인 리팩토링 (2)](https://annovation.tistory.com/474)
-- [[프로그래머스 / Java] Lv.2 카펫 - 연습 문제 (1) with ChatGPT](https://annovation.tistory.com/473)
 
 </div>
