@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.1 추억 점수](https://annovation.tistory.com/481)
 - [[TDD] Test Fixture 사용이 항상 옳은걸까?](https://annovation.tistory.com/480)
 - [[동시성 처리] 재고 감소 통합 테스트 코드 3 - Test Fixture](https://annovation.tistory.com/479)
 - [[TDD] 일관된 테스트 결과를 위한 Test Fixture 사용하기](https://annovation.tistory.com/478)
 - [[프로그래머스 / Java] Lv.2 피로도 - 연습 문제 (1) with ChatGPT (업데이트 중..)](https://annovation.tistory.com/477)
-- [[프로그래머스 / Java] Lv.2 피로도 (업데이트 중..)](https://annovation.tistory.com/476)
 
 </div>
