@@ -67,10 +67,10 @@
 </div>
 
 
+- [[리팩토링] Swagger Request DTO 메서드 충돌 트러블슈팅](https://annovation.tistory.com/484)
 - [[동시성 처리] 테스트 코드 런타임 에러 발생 (업데이트 중..)](https://annovation.tistory.com/483)
 - [[프로그래머스 / MySQL] Lv.1 조건에 맞는 도서 리스트 출력하기](https://annovation.tistory.com/482)
 - [[TDD] Test Fixture 사용이 항상 옳은걸까?](https://annovation.tistory.com/480)
 - [[동시성 처리] 재고 감소 통합 테스트 코드 3 - Test Fixture](https://annovation.tistory.com/479)
-- [[TDD] 일관된 테스트 결과를 위한 Test Fixture 사용하기](https://annovation.tistory.com/478)
 
 </div>
