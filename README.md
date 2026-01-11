@@ -67,10 +67,10 @@
 </div>
 
 
+- [[프로그래머스 / Java] Lv.1 행렬의 덧셈](https://annovation.tistory.com/488)
 - [[프로그래머스 / Java] Lv.1 추억 점수](https://annovation.tistory.com/487)
 - [[리팩토링] 권한 별 기능 제한 로직 구현 (2) (업데이트 중..)](https://annovation.tistory.com/486)
 - [[리팩토링] 권한 별 기능 제한 로직 구현 (1) (업데이트 중..)](https://annovation.tistory.com/485)
 - [[리팩토링] Swagger Request DTO 메서드 충돌 트러블슈팅](https://annovation.tistory.com/484)
-- [[동시성 처리] 테스트 코드 런타임 에러 발생 (업데이트 중..)](https://annovation.tistory.com/483)
 
 </div>
