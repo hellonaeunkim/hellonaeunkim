@@ -67,10 +67,10 @@
 </div>
 
 
+- [[BAEKJOON / Java] 25494. 단순한 문제 (Small) (업데이트 중..)](https://annovation.tistory.com/490)
+- [코딩 테스트 유형](https://annovation.tistory.com/489)
 - [[리팩토링] 권한 별 기능 제한 로직 구현 (2) (업데이트 중..)](https://annovation.tistory.com/486)
 - [[리팩토링] 권한 별 기능 제한 로직 구현 (1) (업데이트 중..)](https://annovation.tistory.com/485)
 - [[리팩토링] Swagger Request DTO 메서드 충돌 트러블슈팅](https://annovation.tistory.com/484)
-- [[동시성 처리] 테스트 코드 런타임 에러 발생 (업데이트 중..)](https://annovation.tistory.com/483)
-- [[프로그래머스 / MySQL] Lv.1 조건에 맞는 도서 리스트 출력하기](https://annovation.tistory.com/482)
 
 </div>
