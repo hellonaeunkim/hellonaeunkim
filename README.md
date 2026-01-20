@@ -67,7 +67,7 @@
 </div>
 
 
-- [[Java] GC(Garbage Collection)](https://annovation.tistory.com/494)
+- [[Java] 배열 (Arrays)](https://annovation.tistory.com/495)
 - [[리팩토링] 권한 별 기능 제한 로직 구현 (3) (업데이트 중..)](https://annovation.tistory.com/492)
 - [[리팩토링] 공통 모듈 수정으로 인한 리팩토링](https://annovation.tistory.com/491)
 - [[BAEKJOON / Java] 25494. 단순한 문제 (Small) (업데이트 중..)](https://annovation.tistory.com/490)
