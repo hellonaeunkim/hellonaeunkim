@@ -67,10 +67,10 @@
 </div>
 
 
+- [[Java] 절차 지향 프로그래밍 vs 객체 지향 프로그래밍](https://annovation.tistory.com/501)
 - [[Spring] 좋은 객체 지향 프로그래밍이란?](https://annovation.tistory.com/499)
 - [[Spring] Spring 이란?](https://annovation.tistory.com/497)
 - [[리팩토링] 권한 별 기능 제한 로직 구현 (3) (업데이트 중..)](https://annovation.tistory.com/492)
 - [[리팩토링] 공통 모듈 수정으로 인한 리팩토링](https://annovation.tistory.com/491)
-- [[BAEKJOON / Java] 25494. 단순한 문제 (Small) (업데이트 중..)](https://annovation.tistory.com/490)
 
 </div>
