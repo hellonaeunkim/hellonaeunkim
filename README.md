@@ -67,10 +67,10 @@
 </div>
 
 
+- [[동시성 처리] 재고 감소 통합 테스트 코드 4 - 단일 스레드](https://annovation.tistory.com/503)
 - [[Spring] 객체 지향 설계와 스프링](https://annovation.tistory.com/502)
 - [[Spring] 좋은 객체 지향 설계의 5가지 원칙 (SOLID)](https://annovation.tistory.com/498)
 - [[Spring] 좋은 객체 지향 프로그래밍이란?](https://annovation.tistory.com/499)
 - [[Spring] Spring 이란?](https://annovation.tistory.com/497)
-- [[리팩토링] 권한 별 기능 제한 로직 구현 (3) (업데이트 중..)](https://annovation.tistory.com/492)
 
 </div>
