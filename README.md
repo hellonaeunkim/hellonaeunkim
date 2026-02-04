@@ -70,7 +70,7 @@
 - [[동시성 처리] 재고 감소 통합 테스트 코드 7 - 멀티 스레드](https://annovation.tistory.com/507)
 - [[Java] 변수(Variables) 헷갈리는 문법 정리](https://annovation.tistory.com/506)
 - [[동시성 처리] 재고 감소 통합 테스트 코드 6 - test DB](https://annovation.tistory.com/505)
-- [[동시성 처리] 재고 감소 통합 테스트 코드 5 - 단일 스레드 (업데이트 중..)](https://annovation.tistory.com/504)
+- [[동시성 처리] 재고 감소 통합 테스트 코드 5 - 단일 스레드](https://annovation.tistory.com/504)
 - [[동시성 처리] 재고 감소 통합 테스트 코드 4 - 단일 스레드](https://annovation.tistory.com/503)
 
 </div>
