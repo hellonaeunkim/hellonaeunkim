@@ -67,10 +67,10 @@
 </div>
 
 
+- [[DBeaver] Public Key Retrieval is not allowed](https://annovation.tistory.com/516)
 - [[터미널 명령어] HomeBrew 명령어](https://annovation.tistory.com/515)
 - [[MSA] Spring Cloud Config Client 동작 구조 (with Spring Docs)](https://annovation.tistory.com/514)
 - [[MySQL] MySQL 8.0.45-arm 64 켜졌다 꺼졌다 반복 on MacOs](https://annovation.tistory.com/513)
 - [[동시성 처리] Trouble Shooting : 테스트 코드 Config Client 오류 (해결중..)](https://annovation.tistory.com/512)
-- [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점](https://annovation.tistory.com/509)
 
 </div>
