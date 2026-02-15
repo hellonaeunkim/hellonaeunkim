@@ -67,10 +67,10 @@
 </div>
 
 
+- [[동시성 처리] synchronized vs Reentrant Lock - 실습](https://annovation.tistory.com/521)
 - [[동시성 처리] JVM 락 : synchronized VS Reentrant Lock (실습중..)](https://annovation.tistory.com/520)
 - [[동시성 처리] Trouble Shooting : 테스트 코드 .env 환경 변수 적용](https://annovation.tistory.com/518)
 - [[DBeaver] Access denied for user 'root@localhost' (using password : YES)](https://annovation.tistory.com/517)
 - [[DBeaver] Public Key Retrieval is not allowed](https://annovation.tistory.com/516)
-- [[터미널 명령어] HomeBrew 명령어](https://annovation.tistory.com/515)
 
 </div>
