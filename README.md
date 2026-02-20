@@ -67,10 +67,10 @@
 </div>
 
 
+- [[동시성 처리] DB Lock : Optimistic Lock (낙관적 락) - 실습](https://annovation.tistory.com/525)
 - [[동시성 처리] Trouble Shooting : Pessimistic Lock 적용 오류](https://annovation.tistory.com/524)
 - [[동시성 처리] DB Lock : Pessimistic Lock (비관적 락) - 실습](https://annovation.tistory.com/523)
 - [[동시성 처리] Trouble Shooting : 멀티스레드 재고 감소 통합 테스트 코드 Eureka Server Connection refused](https://annovation.tistory.com/522)
 - [[동시성 처리] synchronized vs Reentrant Lock - 실습](https://annovation.tistory.com/521)
-- [[동시성 처리] JVM Lock : synchronized VS Reentrant Lock (실습중..)](https://annovation.tistory.com/520)
 
 </div>
