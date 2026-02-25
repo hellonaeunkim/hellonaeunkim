@@ -67,10 +67,10 @@
 </div>
 
 
+- [[DB] 인메모리 저장소와 Redis 기초](https://annovation.tistory.com/528)
 - [[동시성 처리] 재고 감소 통합 테스트 코드 6 - Optimistic Lock(낙관적 락) 멀티 스레드 테스트 코드](https://annovation.tistory.com/527)
 - [[동시성 처리] Optimistic Lock (낙관적 락) 재시도 로직](https://annovation.tistory.com/526)
 - [[동시성 처리] DB Lock : Optimistic Lock (낙관적 락) - 실습](https://annovation.tistory.com/525)
 - [[동시성 처리] Trouble Shooting : Pessimistic Lock 적용 오류](https://annovation.tistory.com/524)
-- [[동시성 처리] DB Lock : Pessimistic Lock (비관적 락) - 실습](https://annovation.tistory.com/523)
 
 </div>
