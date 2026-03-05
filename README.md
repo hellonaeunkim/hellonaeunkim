@@ -67,10 +67,10 @@
 </div>
 
 
+- [[DB] Redis 실습 2](https://annovation.tistory.com/535)
 - [[DB] Redis 실습 1](https://annovation.tistory.com/534)
 - [[DB] Spring에서 Redis 사용해보기 : RedisTemplate 써보기](https://annovation.tistory.com/533)
 - [[DB] Spring에서 Redis 사용해보기](https://annovation.tistory.com/532)
 - [[DB] Redis 타입 살펴보기 (공부중..)](https://annovation.tistory.com/530)
-- [[DB] Redis 설치하기 (MacOS)](https://annovation.tistory.com/529)
 
 </div>
