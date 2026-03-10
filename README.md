@@ -68,9 +68,9 @@
 
 
 - [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점 - (2) Database Lock](https://annovation.tistory.com/537)
-- [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점 - (2) Database Lock](https://annovation.tistory.com/539)
 - [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점 - (1) Synchronized](https://annovation.tistory.com/536)
 - [[DB] Redis 실습 2](https://annovation.tistory.com/535)
 - [[DB] Redis 실습 1](https://annovation.tistory.com/534)
+- [[DB] Spring에서 Redis 사용해보기 : RedisTemplate 써보기](https://annovation.tistory.com/533)
 
 </div>
