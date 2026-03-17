@@ -67,10 +67,10 @@
 </div>
 
 
+- [[바이브 코딩] MacOS Codex CLI 설치](https://annovation.tistory.com/542)
 - [[바이브 코딩] AGENTS.md 로 코딩 에이전트 활용하기](https://annovation.tistory.com/541)
 - [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점 - (3) Redis Distributed Lock](https://annovation.tistory.com/540)
 - [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점 - (2) Database Lock](https://annovation.tistory.com/537)
 - [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점 - (1) Synchronized](https://annovation.tistory.com/536)
-- [[DB] Redis 실습 2](https://annovation.tistory.com/535)
 
 </div>
