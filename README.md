@@ -67,10 +67,10 @@
 </div>
 
 
+- [[block-server] 휴지통 자동 삭제 기능 구현 (2)](https://annovation.tistory.com/551)
 - [[block-server] 휴지통 자동 삭제 기능 구현 (1) : Spring Scheduling vs Spring Batch](https://annovation.tistory.com/547)
 - [[block-server] 프로젝트 구조](https://annovation.tistory.com/545)
 - [[바이브 코딩] MacOS Codex CLI 설치](https://annovation.tistory.com/542)
 - [[바이브 코딩] AGENTS.md 로 코딩 에이전트 활용하기](https://annovation.tistory.com/541)
-- [[동시성 처리] 동시성 문제 (Race Condition) 해결 방법 3가지 관점 - (3) Redis Distributed Lock](https://annovation.tistory.com/540)
 
 </div>
