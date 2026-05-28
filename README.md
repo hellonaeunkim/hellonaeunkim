@@ -67,10 +67,10 @@
 </div>
 
 
+- [[동시성 처리] RedissonClient Bean 설정 클래스 추가 (2)](https://annovation.tistory.com/556)
 - [[동시성 처리] RedissonClient Bean 설정 클래스 추가 (1)](https://annovation.tistory.com/555)
 - [[동시성 처리] 동시성 문제 (Race Conditon) 해결하기](https://annovation.tistory.com/554)
 - [Codex Chat 삭제하는 방법 (MacOS)](https://annovation.tistory.com/553)
 - [[block-server] 휴지통 자동 삭제 기능 구현 (2)](https://annovation.tistory.com/551)
-- [[block-server] 휴지통 자동 삭제 기능 구현 (1) : Spring Scheduling vs Spring Batch](https://annovation.tistory.com/547)
 
 </div>
