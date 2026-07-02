@@ -67,10 +67,10 @@
 </div>
 
 
+- [[동시성 처리]](https://annovation.tistory.com/564)
 - [Redisson은 왜 Redis Pub/Sub을 이용해 재시도(Retry) 로직을 구현할 수 있을까?](https://annovation.tistory.com/563)
 - [[트러블슈팅] Redisson 분산 락 적용 중 트랜잭션 커밋 순서 문제를 해결한 과정 (2)](https://annovation.tistory.com/562)
 - [[트러블슈팅] Redisson 분산 락 적용 중 트랜잭션 커밋 순서 문제를 해결한 과정 (1)](https://annovation.tistory.com/561)
 - [[동시성 처리] 재고 감소 락 추상화 및 Redisson 락 구현 (아키텍처 구조 보완 필요)](https://annovation.tistory.com/557)
-- [[동시성 처리] RedissonClient Bean 설정 클래스 추가 (2) (리소스 보완 필요)](https://annovation.tistory.com/556)
 
 </div>
