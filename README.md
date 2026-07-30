@@ -67,10 +67,10 @@
 </div>
 
 
+- [[리팩토링] 재고 API - (3) 동시성 처리 최적화 - Micrometer 란?](https://annovation.tistory.com/573)
 - [[부하테스트] 재고 API - (2) k6 부하 테스트 환경과 개발 환경 분리](https://annovation.tistory.com/575)
 - [[부하테스트] 재고 API - (1) k6로 테스트 해보기](https://annovation.tistory.com/574)
 - [[부하테스트] 부하 테스트 란? (feat. k6)](https://annovation.tistory.com/568)
 - [[동시성 처리] Redisson은 어떻게 Redis Pub/Sub을 이용해 재시도(Retry) 로직을 구현할 수 있을까?](https://annovation.tistory.com/563)
-- [[트러블슈팅] Redisson 분산 락 적용 중 트랜잭션 커밋 순서 문제를 해결한 과정 (2)](https://annovation.tistory.com/562)
 
 </div>
