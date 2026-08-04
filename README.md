@@ -67,8 +67,8 @@
 </div>
 
 
-- [[리팩토링] 재고 API - (3) 동시성 처리 최적화 - Micrometer 도입](https://annovation.tistory.com/576)
-- [[리팩토링] 재고 API - (3) 동시성 처리 최적화 - Micrometer 란?](https://annovation.tistory.com/573)
+- [[리팩토링] 재고 API - (3) 동시성 처리 최적화 : Micrometer 도입](https://annovation.tistory.com/576)
+- [[리팩토링] 재고 API - (3) 동시성 처리 최적화 : Micrometer 란?](https://annovation.tistory.com/573)
 - [[부하테스트] 재고 API - (2) k6 부하 테스트 환경과 개발 환경 분리](https://annovation.tistory.com/575)
 - [[부하테스트] 재고 API - (1) k6로 테스트 해보기](https://annovation.tistory.com/574)
 - [[부하테스트] 부하 테스트 란? (feat. k6)](https://annovation.tistory.com/568)
