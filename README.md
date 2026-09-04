@@ -67,10 +67,10 @@
 </div>
 
 
+- [[리팩토링] Spring AI 1.0.0-M6 &rarr; 1.1.8 업그레이드](https://annovation.tistory.com/579)
 - [[리팩토링] 재고 API - (4) DB 인덱스 및 캐싱](https://annovation.tistory.com/567)
 - [[리팩토링] 재고 API - (3) 동시성 처리 최적화](https://annovation.tistory.com/566)
 - [[리팩토링] 재고 API - (3) 동시성 처리 최적화 : k6 스크립트와 자동화 쉘 스크립트 작성](https://annovation.tistory.com/577)
 - [[트러블슈팅] 재고 API - (3) 동시성 처리 최적화 : k6 자동 측정 스크립트의 jq 문법 오류 해결](https://annovation.tistory.com/578)
-- [[리팩토링] 재고 API - (3) 동시성 처리 최적화 : Micrometer 도입](https://annovation.tistory.com/576)
 
 </div>
